@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Zadanie4_2</string>
+    <string name="main">Зарегестрируйте билет</string>
+    <string name="end">Завершить</string>
+    <string name="name">ФИО</string>
+    <string name="to">Куда</string>
+    <string name="from">Откуда</string>
+    <string name="date">Дата</string>
+    <string name="time">Время</string>
+    <string name="ticket">Ваш билет</string>
+    <string name="restart">Новый билет</string>
+    <string name="data">Данные из главной активности</string>
+</resources>
